@@ -1,0 +1,12 @@
+{
+    "08123456789": {
+        "nama": "Pengirim Test",
+        "saldo": 50000,
+        "status": "aktif"
+    },
+    "08987654321": {
+        "nama": "Penerima Test",
+        "saldo": 10000,
+        "status": "aktif"
+    }
+}

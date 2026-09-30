@@ -1,0 +1,12 @@
+[
+    {
+        "waktu": "2026-09-30 20:44:09",
+        "pengirim": "08123456789",
+        "tujuan": "08987654321",
+        "nominal": 1000.0,
+        "biaya": 0,
+        "total": 0,
+        "status": "Gagal",
+        "alasan": "Nominal di bawah minimum"
+    }
+]
